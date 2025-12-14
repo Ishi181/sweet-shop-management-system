@@ -42,7 +42,7 @@ The project follows **clean architecture**, **Test Driven Development (TDD)** pr
 ---
 
 ## 📂 Project Structure
-
+```
 sweet-shop-management-system/
 │
 ├── backend/
@@ -59,9 +59,7 @@ sweet-shop-management-system/
 │ └── .env
 │
 └── README.md
-
-
----
+```
 
 ## ⚙️ Setup & Run Instructions (Backend)
 
