@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-require("dotenv").config();   // 👈 THIS LINE IS CRITICAL
+require("dotenv").config();
 
 beforeAll(async () => {
   await mongoose.connect(process.env.MONGO_URI);
