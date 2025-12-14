@@ -128,17 +128,23 @@ Invoke-RestMethod -Uri "http://localhost:3000/api/test/protected" `
 -Headers @{ Authorization = "Bearer $token" }
 ```
 
-🖼 Screenshots (To Be Added)
+🖼 Screenshots 
 
 Backend server running in terminal
+<img width="1128" height="854" alt="image" src="https://github.com/user-attachments/assets/3d115cd4-b87b-4ef2-aef3-ba7ac96d7b55" />
 
 Successful registration response
+<img width="1275" height="582" alt="image" src="https://github.com/user-attachments/assets/1afc5568-c19a-451f-9409-2244e198cb65" />
 
 Login response showing JWT token
+<img width="1391" height="490" alt="image" src="https://github.com/user-attachments/assets/4aa07db3-bb05-48e0-b12e-1ee6f5f24deb" />
 
 Accessing protected route successfully
+<img width="1573" height="703" alt="image" src="https://github.com/user-attachments/assets/3acd3fbe-255d-440b-8caa-86de8f55edb3" />
+
 
 Passing Jest test results
+<img width="1324" height="484" alt="image" src="https://github.com/user-attachments/assets/2b435de0-2807-43c3-bd2f-9cb16bf2caaf" />
 
 📌 (Screenshots can be added in the /screenshots folder and linked here)
 
